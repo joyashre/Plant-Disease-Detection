@@ -6,7 +6,6 @@
 Welcome to the Plant Disease Detection project! This repository contains a Python script that uses deep learning to identify plant diseases from leaf images using the PlantVillage dataset. Powered by MobileNetV2, this project simplifies plant disease classification with a beginner-friendly approach, including training, validation, and test splits, plus visualizations like confusion matrices and sample predictions. 🚀
 
 ## 📖 Project Overview
-This project combines and simplifies code from two sources:
 
 [GitHub Notebook](https://github.com/joyashre/Plant-Disease-Detection/blob/main/Crop_test.ipynb)
 
