@@ -8,8 +8,9 @@ Welcome to the Plant Disease Detection project! This repository contains a Pytho
 ## 📖 Project Overview
 This project combines and simplifies code from two sources:
 
-[GitHub Notebook]()
-[Google Colab Notebook]()
+[GitHub Notebook](https://github.com/joyashre/Plant-Disease-Detection/blob/main/Crop_test.ipynb)
+
+[Google Colab Notebook](https://colab.research.google.com/drive/1SgNmfDhtGkP2yH1zhodkn-JlznMEfKzq?usp=sharing)
 
 It uses transfer learning with MobileNetV2 to classify plant leaf images into disease categories (e.g., Tomato_Healthy, Potato_Early_Blight). The dataset is split into:
 
@@ -133,7 +134,7 @@ Memory Issues 💾: Reduce batch_size to 16 in the script.
 🧠 Try other models like EfficientNetB0 for better accuracy.
 
 
-🙌 Acknowledgments
+## 🙌 Acknowledgments
 
 Thanks to the PlantVillage dataset creators and TensorFlow community. 🌍
 
